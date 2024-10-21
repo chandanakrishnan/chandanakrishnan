@@ -22,7 +22,6 @@
  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <!-- Replacing Quartz with PostgreSQL -->
   <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> <!-- Updated SQLite icon -->
-  <img align="center" alt="DB Browser" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg"> <!-- Replacing DB Browser with a generic database icon -->
   
   
 </div>
