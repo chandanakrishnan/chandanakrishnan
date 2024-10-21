@@ -19,10 +19,7 @@
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
    <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Unix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
-   <img align="center" alt="Quartz" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Quartz_Logo.svg/1200px-Quartz_Logo.svg.png">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/SQLite370.svg/1200px-SQLite370.svg.png">
-  <img align="center" alt="DB Browser" height="30" width="40" src="https://www.sqlitebrowser.org/images/db_browser_logo.png">
-  <img align="center" alt="Toad" height="30" width="40" src="https://www.toadworld.com/Portals/0/Toad_Support/Toad_for_SQL_Server/Toad_for_SQL_Server_Logo_400x400.png">
+ <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   
   
 </div>
